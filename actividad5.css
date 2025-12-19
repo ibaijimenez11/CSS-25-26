@@ -3,6 +3,7 @@ display: block;}
 .clase_contenido2{background-color: purple;display: block;}
 .clase_contenido{background-color: black;}
 .clase_contenido{background-color: black;}
-.clase_fieldset1{background-color: lightblue;}
-.clase_fieldset2{background-color: lightcoral;}
-#contenedor1{hover}
+.clase_contenedor1{background-color: lightblue;}
+.clase_contenedor1:hover{opacity: 0.7;}
+.clase_contenedor2{background-color: lightcoral;}
+.clase_contenedor2:active {opacity: 0.7;}
