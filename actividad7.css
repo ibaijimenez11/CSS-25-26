@@ -1,0 +1,47 @@
+.item1, .item2, .item3, .item4 {
+    background-color: beige;
+    display: block;
+    margin-bottom: 8px;
+
+    margin-right: 4px;
+}
+
+h1 { color: gray; }
+h2 { color: green; }
+
+body {
+    background-color: lightgreen;
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background-color: brown;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 19.5cm;
+    margin: 0;
+
+
+}
+
+.fondouno {
+    background-color: blue;
+    width: 550px;
+    padding: 10px;
+    height: 7cm;
+    box-sizing: border-box;
+    margin: 0 0 40px 0;
+
+}
+
+.fondodos {
+    background-color: aqua;
+    width: 550px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.truno { background-color: deeppink; }
+.trudos { background-color: cadetblue; }
+.trutres { background-color: chocolate; }
