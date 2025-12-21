@@ -1,47 +1,61 @@
-.item1, .item2, .item3, .item4 {
-    background-color: beige;
-    display: block;
-    margin-bottom: 8px;
-
-    margin-right: 4px;
-}
-
-h1 { color: gray; }
-h2 { color: green; }
-
 body {
     background-color: lightgreen;
     margin: 0;
     padding: 0;
 }
 
-.fondo {
+fieldset {
     background-color: brown;
+    width: 98%;
+    margin: 20px auto;
     padding: 20px;
     box-sizing: border-box;
-    width: 19.5cm;
-    margin: 0;
-
-
+    border: none;
+    padding: 0px;
 }
+
+
 
 .fondouno {
     background-color: blue;
     width: 550px;
+    margin: 0;
     padding: 10px;
-    height: 7cm;
-    box-sizing: border-box;
-    margin: 0 0 40px 0;
+
 
 }
 
 .fondodos {
     background-color: aqua;
     width: 550px;
+    margin: 0;
     padding: 10px;
-    box-sizing: border-box;
+    margin-top: 30px;
 }
 
-.truno { background-color: deeppink; }
-.trudos { background-color: cadetblue; }
-.trutres { background-color: chocolate; }
+.item1, .item2, .item3, .item4 {
+    display: block;
+    background-color: khaki;
+    color: darkslateblue;
+    margin-bottom: 8px;
+    border: none;
+    padding: 4px;
+}
+
+h1 {
+    color: white;
+    margin-top: 0;
+}
+
+h2 {
+    color: green;
+    margin-top: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.truno { background-color: deeppink; color: blue; }
+.trudos { background-color: cadetblue; color: darkslateblue; }
+.trutres { background-color: chocolate; color: blue; }
