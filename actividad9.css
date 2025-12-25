@@ -1,0 +1,35 @@
+body{background-color:midnightblue;
+
+
+}
+.elemento1{display:flex;
+flex-direction: row;
+justify-content: center;
+gap: 20px;
+}
+
+.elemento2{
+background-image: linear-gradient(to right,midnightblue,deepskyblue);
+
+background-color: deepskyblue;
+display: flex;
+flex-direction: column;
+margin-right: 700px;
+margin-top: 50px;
+}
+
+.elemento3{
+    background-color: midnightblue;
+
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+
+
+}
+.elemento3{
+display: flex;
+align-content: stretch(default);
+gap: 10px;
+
+}
